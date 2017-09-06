@@ -1,0 +1,7 @@
+nohup: ignoring input
+Bottle v0.12.13 server starting up (using WSGIRefServer())...
+Listening on http://0.0.0.0:8801/
+Hit Ctrl-C to quit.
+
+192.168.1.51 - - [11/Mar/2017 17:23:15] "GET /get_info_from_controller_add_flowtable HTTP/1.1" 200 58
+192.168.1.51 - - [11/Mar/2017 17:25:59] "GET /get_info_from_controller_remove_flowtable HTTP/1.1" 200 40
